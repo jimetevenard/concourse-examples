@@ -1,4 +1,4 @@
 # examples
 Examples of Concourse workflows
 
-> Et hop ! Un commit !
+> Et hop ! Un (autre) commit !
